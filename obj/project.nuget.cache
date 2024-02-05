@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VVeyOKuuqaYhKT7/FGmQ3wxxJhZpjDFniKByfcv0dceEvNHrZMXBxNgcVMJNSxKeqAapCvfW+sffNkVc7yPFUw==",
+  "dgSpecHash": "OFJT4nE9EPmIfkaP6+P6jn7x3ZAZYphp+PBBvjPrdAQGA5ld5PNFEsir/b2YbTihCRj6DV1s0nIloiGOVF5nBA==",
   "success": true,
   "projectFilePath": "C:\\Users\\opilane\\source\\repos\\PlanetsApp\\PlanetsApp.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\opilane\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
