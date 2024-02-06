@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OFJT4nE9EPmIfkaP6+P6jn7x3ZAZYphp+PBBvjPrdAQGA5ld5PNFEsir/b2YbTihCRj6DV1s0nIloiGOVF5nBA==",
+  "dgSpecHash": "Gkwv6WyHpVrVnVZaOGfCheJIotPOnAE/qLE9WJRAqLGWkcNLJDGgRmOHL2iIhAenKPvaO8EMQofG4BgkSMhjEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\PlanetsApp\\PlanetsApp.csproj",
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\Planets\\PlanetsApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\opilane\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",

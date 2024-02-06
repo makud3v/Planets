@@ -25186,11 +25186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\PlanetsApp\\PlanetsApp.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Planets\\PlanetsApp.csproj",
       "projectName": "PlanetsApp",
-      "projectPath": "C:\\Users\\opilane\\source\\repos\\PlanetsApp\\PlanetsApp.csproj",
+      "projectPath": "C:\\Users\\opilane\\source\\repos\\Planets\\PlanetsApp.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\source\\repos\\PlanetsApp\\obj\\",
+      "outputPath": "C:\\Users\\opilane\\source\\repos\\Planets\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
