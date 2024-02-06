@@ -101,7 +101,7 @@
             WidthRequest="200"
             HeightRequest="200"/>
 
-        <Image
+        <!--<Image
             x:Name="imgPluto"
             Opacity="0"
             Source="pluto.png"
@@ -154,7 +154,19 @@
             TranslationX="100"
             TranslationY="-72"
             WidthRequest="200"
-            HeightRequest="200"/>
+            HeightRequest="200"/>-->
 
+        <Border
+            x:Name="imgIntro"
+            Opacity="0"
+            Padding="24,32"
+            BackgroundColor="{StaticResource FrameBackgroundColor}"
+            Stroke="{StaticResource BorderColor}"
+            HorizontalOptions="Fill"
+            VerticalOptions="End"
+            Margin="20"
+            >
+            
+        </Border>
     </Grid>
 </ContentPage>
