@@ -86,7 +86,7 @@ namespace PlanetsApp.Services
                 AccentColorEnd = Color.FromArgb("#cd8026"),
                 Images = new()
                 {
-                    "https://solarsystem.nasa.gov/system/feature_items/images/13_PIA24237_Jupiter_Cyclones-800.jpg".
+                    "https://solarsystem.nasa.gov/system/feature_items/images/13_PIA24237_Jupiter_Cyclones-800.jpg",
                     "https://solarsystem.nasa.gov/system/feature_items/images/10_Jupiter_Io_Juno-800.jpg",
                     "https://solarsystem.nasa.gov/system/feature_items/images/11_Full_Jupiter-800.jpg"
                 }
@@ -141,5 +141,16 @@ namespace PlanetsApp.Services
                 }
             }
         };
+
+        public static List<Planet> GetFeaturedPlanets()
+        {
+            var rnd = new Random();
+            var randomizedPlanets = planets.OrderBy(item => rnd.Next());
+
+            return randomizedPlanets.Take(2).ToList();
+        }
+
+        public static List<Planet> GetAllPlanets()
+            => planets;
     }
 }
