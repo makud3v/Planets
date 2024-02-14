@@ -103,6 +103,7 @@
             WidthRequest="200"
             HeightRequest="200"/>
 
+
         <!-- Intro Box -->
         <Border
             x:Name="imgIntro"

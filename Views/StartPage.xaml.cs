@@ -26,6 +26,7 @@ public partial class StartPage : ContentPage
         parentAnimation.Add(0.6, 0.8, new Animation(v => imgNeptune.Opacity = v, 0, 1, Easing.CubicIn));
         parentAnimation.Add(0.7, 0.9, new Animation(v => imgUranus.Opacity = v, 0, 1, Easing.CubicIn));
 
+
         //Intro box Animation
         parentAnimation.Add(0.7, 1, new Animation(v => imgIntro.Opacity = v, 0, 1, Easing.CubicIn));
 
