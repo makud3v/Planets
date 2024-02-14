@@ -124,6 +124,81 @@ namespace PlanetsApp.Services
                     "https://solarsystem.nasa.gov/system/feature_items/images/89_uranus_carousel_1.jpg"
                 }
             },
+            new()
+            {
+                Name = " Pluto",
+                Subtitle = "Dwarf, not a planet",
+                HeroImage = "pluto.png",
+                Description = "Pluto is a dwarf planet in the Kuiper belt, a ring of bodies beyond the orbit of Neptune. It is the ninth-largest and tenth-most-massive known object to directly orbit the Sun. It is the largest known trans-Neptunian object by volume, by a small margin, but is slightly less massive than Eris. Like other Kuiper belt objects, Pluto is made primarily of ice and rock and is much smaller than the inner planets. Pluto has only one sixth the mass of Earth's moon, and one third its volume. ",
+                AccentColorStart = Color.FromArgb("#fcba03"),
+                AccentColorEnd = Color.FromArgb("#91721a"),
+                Images = new()
+                {
+                    "https://upload.wikimedia.org/wikipedia/commons/d/d3/Global_LORRI_mosaic_of_Pluto_in_true_colour.jpg",
+                    "https://www.nasa.gov/sites/default/files/thumbnails/image/edu_what_is_pluto_1.png",
+                    "https://www.nasa.gov/sites/default/files/thumbnails/image/edu_what_is_pluto_2.png"
+                }
+            },
+            new()
+            {
+                Name = " Ceres",
+                Subtitle = "The only dwarf planet located in the inner solar system.",
+                HeroImage = "ceres.png",
+                Description = "Ceres is the largest object in the asteroid belt between Mars and Jupiter, and it's the only dwarf planet located in the inner solar system. It was the first member of the asteroid belt to be discovered when Giuseppe Piazzi spotted it in 1801. When NASA's Dawn arrived in 2015, Ceres became the first dwarf planet to be explored by a spacecraft.\r\n\r\nCalled an asteroid for many years, Ceres is so much bigger and so different from its rocky neighbors that scientists classified it as a dwarf planet in 2006. Even though Ceres comprises 25% of the asteroid belt's total mass, Pluto is still 14 times more massive.\r\n\r\nCeres is named for the Roman goddess of corn and harvests. The word cereal comes from the same name.",
+                AccentColorStart = Color.FromArgb("#aba491"),
+                AccentColorEnd = Color.FromArgb("#242424"),
+                Images = new()
+                {
+                    "https://solarsystem.nasa.gov/system/stellar_items/image_files/704_feature_1600x900_ceres.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/7/76/Ceres_-_RC3_-_Haulani_Crater_%2822381131691%29_%28cropped%29.jpg",
+                    "https://i.ytimg.com/vi/nJiw2NxqoBU/mqdefault.jpg"
+                }
+            },
+            new()
+            {
+                Name = " Haumea",
+                Subtitle = "Santa",
+                HeroImage = "haumea.png",
+                Description = "Haumea is an oval-shaped dwarf planet that is roughly the same size as Pluto. It is one of the fastest rotating large objects in our solar system. The fast spin distorts Haumea's shape, making this dwarf planet look like a football. Everything we know about Haumea is from observations with ground-based telescopes from around the world.",
+                AccentColorStart = Color.FromArgb("#8f4021"),
+                AccentColorEnd = Color.FromArgb("#3d1709"),
+                Images = new()
+                {
+                    "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fnineplanets.org%2Fwp-content%2Fuploads%2F2019%2F11%2Fdwarf-planet-haumea.jpg&f=1&nofb=1&ipt=2353cf8541880f463de539292c3f962eed1f4a5d4dd399e753cdbc134ff1fd7c&ipo=images",
+                    "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.futura-sciences.com%2Fbuildsv6%2Fimages%2Fwide1920%2F9%2F0%2F0%2F90064315b8_114804_planete-naine-haumea-anneaux.jpg&f=1&nofb=1&ipt=e22832a096ae11e6c25fa4d664ec7bd04d1f985ee7212bab59d351787e6b9253&ipo=images",
+                    "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-J-jqHGtMLp4%2FX50fQU5nAPI%2FAAAAAAAABRQ%2FQ-E0DDHEri8Y2kM6rJa2e4c3zrRN_clSQCLcBGAsYHQ%2Fs1600%2F723_feature_1600x900_haumea.jpg&f=1&nofb=1&ipt=1decf174306217197eb4293f077c12036ab5e801d0e27eb76925d9c69c614573&ipo=images"
+                }
+            },
+            new()
+            {
+                Name = " MakeMake",
+                Subtitle = "Rapanui god of fertility",
+                HeroImage = "makemake.png",
+                Description = "Dwarf planet Makemake – along with Pluto, Haumea, and Eris – is located in the Kuiper Belt, a donut-shaped region of icy bodies beyond the orbit of Neptune. Makemake is slightly smaller than Pluto, and is the second-brightest object in the Kuiper Belt as seen from Earth while Pluto is the brightest. It takes about 305 Earth years for this dwarf planet to make one trip around the Sun.",
+                AccentColorStart = Color.FromArgb("#ffab52"),
+                AccentColorEnd = Color.FromArgb("#400b2b"),
+                Images = new()
+                {
+                    "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fnineplanets.org%2Fwp-content%2Fuploads%2F2020%2F11%2Fmakemake-1.jpg&f=1&nofb=1&ipt=72abc9129831e14de1b7dd001cb8cae54b4e06b885cc0985f482120581ff1bcb&ipo=images",
+                    "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Feasyscienceforkids.com%2Fwp-content%2Fuploads%2F2019%2F07%2FMakemake-19-4-1.jpg&f=1&nofb=1&ipt=25e443b976c7eb0ab4c704f76e209653f228b4c441cc7f8dedce00ff2099ea08&ipo=images",
+                    "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.science.org%2Fdo%2F10.1126%2Fscience.aaf9978%2Fabs%2Fmakemake.jpg&f=1&nofb=1&ipt=d8291de3bdd0d5a86395385a00497d52ebf6bbbd5f3e5b985a4a940016d6a16a&ipo=images"
+                }
+            },
+            new()
+            {
+                Name = " Eris",
+                Subtitle = "Ancient Greek goddess of discord and strife",
+                HeroImage = "eris.png",
+                Description = "The discovery of Eris help trigger a debate in the scientific community that led to the International Astronomical Union's decision in 2006 to clarify the definition of a planet. Pluto, Eris, and other similar objects are now classified as dwarf planets.\r\n\r\nEris was discovered on Jan. 5, 2005, from data obtained on Oct. 21, 2003, during a Palomar Observatory survey of the outer solar system by Mike Brown, a professor of planetary astronomy at the California Institute of Technology; Chad Trujillo of the Gemini Observatory; and David Rabinowitz of Yale University.",
+                AccentColorStart = Color.FromArgb("#ff6beb"),
+                AccentColorEnd = Color.FromArgb("#330821"),
+                Images = new()
+                {
+                    "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsolarstory.net%2Fimg%2Farticles%2Fbig%2Fartists-impression-of-the-dwarf-planet-eris.jpg&f=1&nofb=1&ipt=86380bb2def0a5fc484e18361d28a05289a68543f521bf9e35c35db00815d86c&ipo=images",
+                    "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FdZqUSGT8ZrMagExRfcrKLJ.jpg&f=1&nofb=1&ipt=13a7df00aed1d6c12bf15799053854c5cad41c35dab4a180b57defcc31b1c647&ipo=images",
+                    "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.nkfu.com%2Fwp-content%2Fuploads%2F2020%2F09%2FEris-cuce-gezegeni.jpg&f=1&nofb=1&ipt=b1ea543a55a9d681dacf49e56e979106828b0954bc13f9951edbac6c86328c31&ipo=images"
+                }
+            },
 
             new()
             {

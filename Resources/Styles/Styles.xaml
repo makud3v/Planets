@@ -150,8 +150,10 @@
     </Style>
 
     <Style TargetType="Label" x:Key="AllPlanetHeaderStyle" BasedOn="{StaticResource BaseBoldLabeltyle}">
-        <Setter Property="FontSize" Value="48" />
+        <Setter Property="FontSize" Value="24" />
         <Setter Property="TextColor" Value="{StaticResource LightTextColor}" />
+        <Setter Property="LineBreakMode" Value="NoWrap" />
+        <Setter Property="HorizontalOptions" Value="FillAndExpand" />
     </Style>
 
     <Style TargetType="Label" x:Key="AllPlanetHeaderSubtitleStyle" BasedOn="{StaticResource BaseRegularLabeltyle}">
